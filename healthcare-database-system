@@ -1,0 +1,20 @@
+-- 1. Find the total number of appointments for each doctor.
+-- 2. Find doctors who handled more than 50 appointments.
+-- 3. Find total consultation fees collected by each department.
+-- 4. Count appointments by status.
+-- 5. Find the average consultation fee by department.
+-- 6. Find appointments scheduled today.
+-- 7. Find the top 10 highest consultation fees.
+-- 8. Find patients with multiple appointments.
+-- 9. Find departments with the highest number of appointments.
+-- 10. Find unpaid appointments.
+-- 11. Rank doctors based on appointments.
+-- 12. Find the running total of consultation fees.
+-- 13. Find the busiest day.
+-- 14. Find each department's percentage contribution to total revenue.
+-- 15. Find the second highest consultation fee.
+-- 16. Find appointments where the consultation fee is above the department average.   
+-- 17. Find the doctor generating the highest revenue.
+-- 18. Find each patient's latest appointment.
+-- 19. Find the revenue generated each month.
+-- 20. Find the top 3 doctors in each department by appointment count.
