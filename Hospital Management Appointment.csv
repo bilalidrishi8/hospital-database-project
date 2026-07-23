@@ -1,0 +1,1001 @@
+appoIntment_Id,patient_Id,doct_Id,reason,appointment_Date,payment_amount,mode_of_payment,mode_of_appointment,appointment_status
+5000,1057,1027,Back Pain,27/11/2024,2139,Insurance,Call,Completed
+5001,1568,1009,Migraine,24/9/2024,1204,Card,In Person,Completed
+5002,449,1024,Diabetes,7/9/2024,2474,Digital Wallet,Call,Completed
+5003,279,1008,Migraine,30/5/2025,1148,Insurance,Call,Completed
+5004,1089,1001,Hypertension,25/9/2024,2031,Insurance,Online,Cancelled
+5005,450,1009,Migraine,16/7/2024,2246,Card,Call,Completed
+5006,540,1027,Headache,31/12/2024,2487,Card,Online,Completed
+5007,1309,1027,Chest Pain,11/6/2025,867,Card,Online,Scheduled
+5008,734,1027,General Checkup,25/10/2024,1682,Cash,Online,Completed
+5009,927,1020,Asthma,18/4/2025,2010,Card,Online,Completed
+5010,228,1027,General Checkup,27/2/2025,2412,Cash,Online,Cancelled
+5011,464,1027,Fever,28/12/2024,1110,Insurance,In Person,Completed
+5012,1090,1027,Headache,24/5/2025,2164,Card,Online,Completed
+5013,896,1024,Diabetes,19/1/2025,1205,Digital Wallet,Online,Completed
+5014,996,1027,Back Pain,7/1/2025,890,Insurance,In Person,Completed
+5015,1463,1003,Hypertension,4/4/2025,1842,Cash,Online,Completed
+5016,1528,1001,Hypertension,16/3/2025,2179,Insurance,In Person,Completed
+5017,1190,1027,Headache,28/2/2025,1774,Digital Wallet,In Person,Completed
+5018,366,1004,Hypertension,29/1/2025,822,Card,Online,Completed
+5019,1449,1009,Migraine,2/12/2024,1122,Cash,Call,Completed
+5020,1453,1027,General Checkup,12/8/2024,2043,Insurance,In Person,Completed
+5021,127,1001,Hypertension,25/7/2024,1435,Card,Call,Completed
+5022,1538,1027,Headache,1/9/2024,1740,Card,Online,Completed
+5023,551,1027,Headache,27/9/2024,2265,Cash,In Person,No-Show
+5024,1429,1004,Hypertension,30/4/2025,1201,Cash,Call,Cancelled
+5025,770,1027,General Checkup,15/5/2025,993,Cash,Online,No-Show
+5026,399,1027,Chest Pain,5/3/2025,2202,Card,Call,Cancelled
+5027,1003,1027,Headache,1/1/2025,1619,Card,Call,Completed
+5028,437,1004,Hypertension,16/9/2024,1108,Card,Online,Completed
+5029,1413,1027,General Checkup,21/10/2024,1662,Digital Wallet,Call,Completed
+5030,783,1027,General Checkup,16/1/2025,2108,Card,Call,Completed
+5031,1266,1020,Asthma,13/5/2025,1829,Digital Wallet,Online,Completed
+5032,1341,1001,Chest Pain,15/10/2024,829,Cash,Call,Completed
+5033,734,1027,Fever,5/5/2025,1860,Card,Online,Completed
+5034,694,1027,Headache,18/8/2024,1816,Insurance,In Person,Completed
+5035,1506,1001,Chest Pain,17/11/2024,909,Digital Wallet,Call,Completed
+5036,689,1009,Migraine,4/3/2025,2139,Digital Wallet,Call,Completed
+5037,1339,1020,Asthma,24/11/2024,903,Card,In Person,Completed
+5038,715,1027,Fever,17/12/2024,1501,Card,In Person,Completed
+5039,1088,1024,Diabetes,17/9/2024,2340,Digital Wallet,Online,Cancelled
+5040,195,1002,Hypertension,7/3/2025,2008,Card,Call,No-Show
+5041,1249,1027,Back Pain,27/8/2024,1587,Insurance,In Person,No-Show
+5042,531,1020,Asthma,19/7/2024,1543,Cash,Online,Completed
+5043,238,1009,Migraine,26/7/2024,950,Digital Wallet,In Person,No-Show
+5044,299,1003,Hypertension,26/5/2025,1909,Cash,In Person,Completed
+5045,122,1020,Asthma,25/4/2025,1248,Card,In Person,Completed
+5046,824,1003,Hypertension,30/4/2025,1904,Insurance,Call,Completed
+5047,1423,1027,Headache,22/6/2025,1802,Digital Wallet,In Person,Scheduled
+5048,473,1027,Back Pain,16/6/2025,1402,Cash,In Person,Scheduled
+5049,316,1027,Headache,27/12/2024,1857,Cash,Call,No-Show
+5050,637,1027,Headache,2/8/2024,1328,Cash,In Person,Completed
+5051,1237,1027,Chest Pain,17/9/2024,1796,Card,Call,Completed
+5052,1360,1027,Chest Pain,9/2/2025,1187,Digital Wallet,Online,Completed
+5053,1581,1027,General Checkup,11/11/2024,2207,Card,In Person,Completed
+5054,466,1027,Headache,7/4/2025,2004,Insurance,Online,Completed
+5055,180,1027,General Checkup,14/4/2025,1192,Cash,Online,Completed
+5056,606,1027,Back Pain,14/12/2024,2266,Digital Wallet,Online,Completed
+5057,251,1004,Hypertension,11/1/2025,1238,Digital Wallet,Online,Completed
+5058,154,1001,Chest Pain,1/8/2024,1632,Digital Wallet,Call,Completed
+5059,1072,1027,Back Pain,26/3/2025,1075,Digital Wallet,In Person,Completed
+5060,1469,1027,General Checkup,8/6/2025,1969,Insurance,Online,Scheduled
+5061,161,1027,Back Pain,5/11/2024,897,Insurance,Online,Completed
+5062,1112,1001,Chest Pain,15/8/2024,1471,Digital Wallet,Online,Completed
+5063,1319,1027,Headache,15/7/2024,1184,Insurance,In Person,No-Show
+5064,1595,1008,Migraine,29/9/2024,1275,Card,Call,Completed
+5065,1206,1020,Asthma,23/12/2024,1071,Cash,In Person,No-Show
+5066,1319,1027,General Checkup,15/12/2024,892,Insurance,Online,Completed
+5067,958,1002,Hypertension,11/7/2024,2207,Digital Wallet,In Person,Completed
+5068,665,1027,General Checkup,6/4/2025,1025,Insurance,Online,Completed
+5069,178,1027,Headache,20/11/2024,1619,Digital Wallet,Call,Completed
+5070,204,1027,Headache,22/2/2025,859,Card,In Person,Completed
+5071,1591,1009,Migraine,6/7/2024,1797,Card,Call,Completed
+5072,737,1027,General Checkup,3/6/2025,1410,Card,Online,Scheduled
+5073,113,1027,General Checkup,16/6/2025,1643,Card,Call,Scheduled
+5074,261,1027,Back Pain,4/5/2025,1704,Card,Online,Completed
+5075,653,1027,Headache,25/9/2024,1820,Digital Wallet,Call,Completed
+5076,820,1027,Chest Pain,8/1/2025,1129,Cash,In Person,Completed
+5077,653,1027,Headache,29/9/2024,1049,Insurance,Call,Completed
+5078,233,1001,Chest Pain,8/4/2025,2132,Cash,In Person,Completed
+5079,376,1027,Fever,10/3/2025,1969,Card,Online,No-Show
+5080,1252,1001,Chest Pain,4/6/2025,2258,Insurance,Online,Scheduled
+5081,1589,1027,Chest Pain,17/4/2025,1576,Insurance,In Person,Completed
+5082,1384,1020,Asthma,18/1/2025,1769,Insurance,Call,Completed
+5083,494,1009,Migraine,13/7/2024,1970,Cash,In Person,Completed
+5084,1245,1027,Headache,9/6/2025,1435,Cash,Online,Scheduled
+5085,262,1020,Asthma,20/1/2025,1601,Card,In Person,Completed
+5086,1085,1027,General Checkup,9/4/2025,1484,Digital Wallet,Call,Cancelled
+5087,1599,1027,Back Pain,4/12/2024,914,Card,Call,Completed
+5088,904,1001,Hypertension,27/5/2025,1401,Cash,Call,Completed
+5089,1479,1003,Hypertension,4/11/2024,1385,Card,In Person,Completed
+5090,1000,1027,Back Pain,15/7/2024,1075,Insurance,Online,Completed
+5091,682,1020,Asthma,16/8/2024,858,Cash,In Person,Completed
+5092,1407,1008,Migraine,10/5/2025,2045,Digital Wallet,Online,Completed
+5093,162,1027,Chest Pain,20/1/2025,867,Digital Wallet,In Person,Completed
+5094,178,1027,Back Pain,9/6/2025,846,Insurance,Call,Scheduled
+5095,613,1024,Diabetes,8/7/2024,2350,Digital Wallet,Online,Completed
+5096,1295,1003,Hypertension,19/6/2025,1005,Digital Wallet,In Person,Scheduled
+5097,789,1027,General Checkup,11/2/2025,849,Cash,In Person,Completed
+5098,1383,1027,Back Pain,6/8/2024,1973,Cash,In Person,Completed
+5099,615,1002,Hypertension,30/8/2024,2454,Card,Online,Completed
+5100,489,1004,Hypertension,15/3/2025,1868,Card,Online,Completed
+5101,1159,1001,Hypertension,15/5/2025,1792,Digital Wallet,In Person,Completed
+5102,973,1020,Asthma,18/10/2024,2232,Cash,Online,Completed
+5103,193,1024,Diabetes,2/9/2024,1066,Cash,Call,Completed
+5104,214,1001,Hypertension,27/5/2025,1268,Digital Wallet,Call,Completed
+5105,1279,1008,Migraine,24/11/2024,2239,Cash,In Person,Completed
+5106,175,1027,Headache,12/6/2025,1556,Insurance,Online,Scheduled
+5107,1000,1008,Migraine,11/12/2024,1149,Digital Wallet,Online,Completed
+5108,527,1027,Chest Pain,27/5/2025,1096,Card,Call,Completed
+5109,1486,1020,Asthma,2/5/2025,1452,Insurance,In Person,Completed
+5110,336,1027,Fever,19/3/2025,1691,Cash,Call,Completed
+5111,1038,1024,Diabetes,28/3/2025,1212,Insurance,Online,No-Show
+5112,1561,1027,General Checkup,10/2/2025,2023,Insurance,Call,Completed
+5113,1392,1027,Headache,12/8/2024,1239,Insurance,Call,Completed
+5114,240,1008,Migraine,16/1/2025,1005,Insurance,In Person,Completed
+5115,805,1027,Chest Pain,28/8/2024,1222,Cash,Online,Completed
+5116,514,1027,Chest Pain,21/10/2024,1187,Insurance,In Person,Completed
+5117,1222,1024,Diabetes,18/8/2024,1684,Cash,Online,Completed
+5118,1587,1020,Asthma,17/5/2025,1878,Insurance,In Person,Cancelled
+5119,1592,1027,General Checkup,3/5/2025,2077,Card,Online,Completed
+5120,1281,1020,Asthma,17/10/2024,1213,Digital Wallet,In Person,Completed
+5121,1068,1027,General Checkup,2/10/2024,2304,Card,Call,Completed
+5122,545,1027,Headache,21/1/2025,2093,Digital Wallet,Call,Completed
+5123,229,1024,Diabetes,29/10/2024,1479,Digital Wallet,In Person,Completed
+5124,1412,1027,General Checkup,7/8/2024,1229,Card,Online,Completed
+5125,1101,1027,Fever,26/12/2024,2007,Insurance,Online,Completed
+5126,402,1027,Chest Pain,26/1/2025,2067,Cash,Call,No-Show
+5127,235,1027,Back Pain,19/6/2025,2369,Insurance,Online,Scheduled
+5128,757,1027,Headache,14/7/2024,977,Digital Wallet,Online,No-Show
+5129,765,1027,Headache,4/5/2025,1224,Digital Wallet,Call,Completed
+5130,202,1001,Chest Pain,23/10/2024,1483,Insurance,In Person,Completed
+5131,1561,1009,Migraine,9/2/2025,2415,Insurance,In Person,Completed
+5132,1184,1027,General Checkup,22/5/2025,1073,Card,In Person,Completed
+5133,643,1027,Fever,11/1/2025,1401,Insurance,Call,Cancelled
+5134,759,1020,Asthma,6/6/2025,1570,Card,In Person,Scheduled
+5135,428,1027,Headache,5/2/2025,848,Cash,In Person,Cancelled
+5136,1170,1027,General Checkup,7/3/2025,875,Card,In Person,Completed
+5137,1449,1027,Back Pain,24/8/2024,2450,Insurance,Call,Completed
+5138,513,1024,Diabetes,4/10/2024,2252,Insurance,In Person,Completed
+5139,1534,1008,Migraine,16/7/2024,1114,Digital Wallet,Online,Completed
+5140,1104,1024,Diabetes,19/3/2025,1145,Cash,Call,Completed
+5141,112,1001,Chest Pain,16/6/2025,2080,Cash,Call,Scheduled
+5142,196,1008,Migraine,19/2/2025,1490,Cash,Online,Completed
+5143,572,1027,Fever,26/11/2024,2433,Digital Wallet,In Person,Completed
+5144,1360,1002,Hypertension,30/5/2025,1152,Digital Wallet,In Person,Completed
+5145,536,1027,Back Pain,1/6/2025,1921,Insurance,Online,Scheduled
+5146,680,1027,General Checkup,14/2/2025,2495,Insurance,In Person,Completed
+5147,455,1020,Asthma,9/10/2024,2305,Digital Wallet,Online,No-Show
+5148,715,1027,Back Pain,19/10/2024,1744,Insurance,Online,Completed
+5149,411,1027,Chest Pain,21/8/2024,1715,Card,Call,Completed
+5150,668,1027,Fever,24/4/2025,936,Cash,In Person,Completed
+5151,986,1027,Headache,9/1/2025,1452,Insurance,In Person,Completed
+5152,1320,1020,Asthma,10/4/2025,1748,Insurance,Call,Completed
+5153,504,1027,Headache,26/10/2024,939,Card,Online,Completed
+5154,915,1024,Diabetes,6/5/2025,2335,Cash,Call,Completed
+5155,1424,1027,Back Pain,26/11/2024,2270,Cash,Call,Completed
+5156,1090,1024,Diabetes,25/7/2024,856,Card,Online,Completed
+5157,470,1024,Diabetes,21/3/2025,1796,Cash,In Person,Completed
+5158,1455,1027,Headache,30/3/2025,2162,Digital Wallet,Call,No-Show
+5159,1515,1009,Migraine,26/5/2025,1455,Card,Online,Completed
+5160,320,1027,General Checkup,9/9/2024,1957,Insurance,In Person,Completed
+5161,1155,1027,Fever,5/3/2025,1816,Insurance,Call,Completed
+5162,1586,1024,Diabetes,3/1/2025,1670,Cash,In Person,Completed
+5163,475,1027,Headache,1/8/2024,2013,Card,Online,Completed
+5164,1083,1027,Headache,25/2/2025,1308,Digital Wallet,Online,Completed
+5165,1185,1027,Chest Pain,10/3/2025,1200,Digital Wallet,Call,Completed
+5166,1257,1027,Back Pain,2/8/2024,1317,Digital Wallet,Call,Completed
+5167,320,1027,Chest Pain,30/7/2024,2194,Insurance,Call,Completed
+5168,1514,1027,General Checkup,21/4/2025,1596,Card,Online,Completed
+5169,113,1027,General Checkup,4/12/2024,1241,Digital Wallet,In Person,Completed
+5170,1206,1027,Fever,2/10/2024,1994,Digital Wallet,In Person,Completed
+5171,881,1020,Asthma,18/2/2025,1869,Card,In Person,Completed
+5172,443,1024,Diabetes,4/12/2024,845,Cash,Call,Completed
+5173,271,1009,Migraine,15/3/2025,2252,Digital Wallet,In Person,Completed
+5174,952,1024,Diabetes,23/10/2024,2027,Card,Online,Completed
+5175,403,1008,Migraine,11/11/2024,1935,Card,Online,Completed
+5176,627,1020,Asthma,22/10/2024,2218,Insurance,Online,Completed
+5177,1507,1020,Asthma,25/5/2025,2306,Cash,In Person,Completed
+5178,527,1027,General Checkup,2/11/2024,1617,Cash,Call,Completed
+5179,1582,1020,Asthma,18/10/2024,2417,Digital Wallet,Online,Completed
+5180,387,1003,Hypertension,21/5/2025,943,Cash,In Person,No-Show
+5181,436,1027,General Checkup,19/9/2024,1331,Digital Wallet,Call,Completed
+5182,362,1004,Hypertension,1/11/2024,807,Digital Wallet,In Person,Completed
+5183,738,1027,Back Pain,4/2/2025,2453,Insurance,Call,Completed
+5184,1060,1027,General Checkup,26/4/2025,2054,Cash,Online,Completed
+5185,1597,1002,Hypertension,12/5/2025,2341,Cash,Online,Completed
+5186,680,1024,Diabetes,18/12/2024,944,Insurance,In Person,Completed
+5187,528,1020,Asthma,13/12/2024,2492,Card,In Person,Completed
+5188,1167,1027,Back Pain,14/5/2025,1486,Digital Wallet,Online,Cancelled
+5189,414,1027,General Checkup,18/12/2024,1568,Cash,Call,Completed
+5190,852,1002,Hypertension,5/12/2024,1896,Cash,In Person,Completed
+5191,822,1027,Headache,1/5/2025,1767,Insurance,In Person,Completed
+5192,1550,1009,Migraine,31/7/2024,2031,Card,Online,Completed
+5193,1454,1001,Chest Pain,16/2/2025,1364,Card,In Person,No-Show
+5194,1465,1027,Back Pain,4/1/2025,1464,Digital Wallet,Call,Completed
+5195,932,1024,Diabetes,19/7/2024,2375,Card,Online,Completed
+5196,703,1027,General Checkup,15/6/2025,873,Card,Call,Scheduled
+5197,442,1008,Migraine,21/7/2024,1126,Card,In Person,Completed
+5198,100,1027,General Checkup,24/2/2025,1453,Digital Wallet,In Person,Completed
+5199,189,1027,Chest Pain,21/8/2024,1917,Cash,In Person,Completed
+5200,1406,1020,Asthma,28/3/2025,2027,Insurance,In Person,Completed
+5201,580,1024,Diabetes,21/4/2025,806,Cash,Online,No-Show
+5202,751,1009,Migraine,24/10/2024,1000,Card,In Person,Completed
+5203,1112,1027,Fever,16/9/2024,1592,Digital Wallet,Online,Completed
+5204,874,1027,Back Pain,14/11/2024,991,Card,Call,Completed
+5205,476,1020,Asthma,30/1/2025,2312,Cash,Call,Completed
+5206,566,1004,Hypertension,28/4/2025,1623,Card,Online,No-Show
+5207,1022,1024,Diabetes,23/5/2025,1064,Cash,Call,Completed
+5208,390,1024,Diabetes,13/11/2024,979,Card,Call,Completed
+5209,699,1027,Fever,19/8/2024,2132,Insurance,Call,Completed
+5210,903,1027,Fever,3/10/2024,2105,Card,Call,Completed
+5211,544,1008,Migraine,21/5/2025,2148,Digital Wallet,Online,Completed
+5212,247,1027,Back Pain,21/3/2025,1040,Cash,In Person,Completed
+5213,499,1001,Chest Pain,19/3/2025,1562,Cash,In Person,No-Show
+5214,876,1004,Hypertension,1/12/2024,2328,Digital Wallet,In Person,Completed
+5215,564,1027,Headache,29/8/2024,1170,Cash,In Person,Cancelled
+5216,1503,1027,Chest Pain,7/6/2025,2190,Insurance,Online,Scheduled
+5217,166,1027,Headache,18/1/2025,1593,Insurance,In Person,Completed
+5218,304,1001,Chest Pain,25/5/2025,1751,Digital Wallet,Online,Completed
+5219,996,1027,Fever,24/4/2025,2280,Cash,In Person,Completed
+5220,1384,1027,Headache,24/7/2024,1632,Digital Wallet,Call,Completed
+5221,152,1024,Diabetes,5/6/2025,2420,Digital Wallet,Online,Scheduled
+5222,1148,1027,General Checkup,23/8/2024,2139,Insurance,Online,Completed
+5223,694,1009,Migraine,29/4/2025,2260,Insurance,Online,Completed
+5224,1035,1024,Diabetes,15/5/2025,2111,Card,Call,Completed
+5225,1006,1027,General Checkup,30/3/2025,1187,Insurance,Call,Completed
+5226,1368,1020,Asthma,12/6/2025,2489,Digital Wallet,In Person,Scheduled
+5227,1456,1004,Hypertension,6/8/2024,1318,Insurance,Call,Completed
+5228,405,1024,Diabetes,4/5/2025,1172,Cash,Call,Completed
+5229,646,1003,Hypertension,2/3/2025,877,Cash,Online,Completed
+5230,1153,1024,Diabetes,13/12/2024,2169,Insurance,In Person,Completed
+5231,310,1027,Back Pain,2/11/2024,1189,Insurance,Online,No-Show
+5232,1562,1024,Diabetes,15/6/2025,1656,Insurance,Online,Scheduled
+5233,177,1027,Back Pain,17/9/2024,2407,Card,Online,Completed
+5234,845,1027,General Checkup,6/2/2025,2341,Cash,Call,Completed
+5235,616,1027,Back Pain,15/9/2024,1459,Cash,Call,Completed
+5236,1484,1027,Back Pain,2/9/2024,2010,Insurance,Call,Completed
+5237,596,1027,Fever,31/5/2025,1369,Digital Wallet,Online,Completed
+5238,813,1027,Chest Pain,25/3/2025,2490,Digital Wallet,Call,No-Show
+5239,752,1027,General Checkup,26/5/2025,1622,Digital Wallet,Online,Completed
+5240,1186,1001,Hypertension,22/11/2024,1856,Digital Wallet,Call,No-Show
+5241,1161,1027,General Checkup,19/6/2025,2373,Digital Wallet,Call,Scheduled
+5242,684,1027,Back Pain,14/3/2025,962,Digital Wallet,Online,Completed
+5243,1366,1027,General Checkup,22/11/2024,1973,Digital Wallet,Online,Completed
+5244,290,1027,Fever,29/6/2025,1690,Insurance,Online,Scheduled
+5245,249,1024,Diabetes,28/11/2024,933,Insurance,Online,Completed
+5246,507,1001,Hypertension,14/5/2025,1349,Cash,Call,Completed
+5247,277,1008,Migraine,14/4/2025,2180,Insurance,Call,Completed
+5248,1042,1024,Diabetes,3/2/2025,1572,Card,Online,Completed
+5249,1377,1004,Hypertension,14/8/2024,980,Card,Online,Completed
+5250,944,1020,Asthma,23/2/2025,2291,Cash,Call,No-Show
+5251,483,1024,Diabetes,3/12/2024,2486,Digital Wallet,Online,Completed
+5252,1021,1027,General Checkup,14/6/2025,1170,Insurance,In Person,Scheduled
+5253,1267,1027,Headache,20/7/2024,1416,Digital Wallet,Call,Completed
+5254,733,1020,Asthma,6/6/2025,2470,Digital Wallet,Online,Scheduled
+5255,1078,1009,Migraine,3/12/2024,992,Cash,In Person,Completed
+5256,652,1008,Migraine,7/10/2024,906,Digital Wallet,In Person,Completed
+5257,1599,1027,Headache,26/11/2024,1827,Insurance,Online,Completed
+5258,507,1009,Migraine,6/1/2025,1262,Insurance,Online,Completed
+5259,713,1027,General Checkup,30/12/2024,2020,Digital Wallet,Online,Cancelled
+5260,345,1027,General Checkup,8/9/2024,1267,Card,In Person,Completed
+5261,339,1009,Migraine,16/6/2025,2055,Digital Wallet,In Person,Scheduled
+5262,281,1024,Diabetes,1/10/2024,2032,Digital Wallet,In Person,Completed
+5263,1006,1024,Diabetes,26/1/2025,1898,Cash,Call,Completed
+5264,181,1027,Headache,12/11/2024,1782,Digital Wallet,Online,Completed
+5265,222,1003,Hypertension,23/12/2024,914,Digital Wallet,Call,Completed
+5266,1533,1027,Headache,15/12/2024,2386,Card,In Person,Completed
+5267,1383,1024,Diabetes,12/10/2024,2459,Insurance,Call,Completed
+5268,1497,1027,Fever,2/2/2025,2241,Digital Wallet,Online,Completed
+5269,1389,1020,Asthma,18/2/2025,1470,Cash,In Person,No-Show
+5270,716,1027,General Checkup,11/10/2024,2463,Insurance,Call,Completed
+5271,835,1009,Migraine,13/7/2024,1633,Card,In Person,Completed
+5272,487,1027,Headache,11/7/2024,1208,Digital Wallet,In Person,Cancelled
+5273,1540,1027,Fever,19/11/2024,1719,Card,Online,Completed
+5274,944,1008,Migraine,13/2/2025,809,Digital Wallet,Call,No-Show
+5275,1594,1027,Back Pain,21/12/2024,1255,Card,Online,Completed
+5276,1274,1024,Diabetes,14/4/2025,1903,Cash,Online,Completed
+5277,1294,1008,Migraine,16/9/2024,1893,Digital Wallet,In Person,Completed
+5278,1061,1027,Back Pain,26/7/2024,1820,Card,Online,Completed
+5279,273,1027,General Checkup,16/12/2024,2214,Cash,Online,Completed
+5280,510,1009,Migraine,5/11/2024,1710,Card,In Person,Completed
+5281,512,1001,Chest Pain,20/1/2025,1423,Cash,Call,Completed
+5282,1054,1027,Fever,17/8/2024,1034,Card,Call,Completed
+5283,1517,1027,Headache,3/11/2024,1494,Insurance,Online,No-Show
+5284,613,1003,Hypertension,14/12/2024,1965,Cash,Call,Completed
+5285,515,1027,General Checkup,20/4/2025,1764,Digital Wallet,Call,Completed
+5286,1455,1027,Fever,14/12/2024,1921,Digital Wallet,Online,Completed
+5287,1047,1027,Chest Pain,15/8/2024,861,Card,Call,No-Show
+5288,1337,1008,Migraine,5/5/2025,1461,Digital Wallet,Online,Cancelled
+5289,1273,1024,Diabetes,11/2/2025,1194,Insurance,Online,Completed
+5290,601,1027,Headache,16/2/2025,849,Digital Wallet,Online,Cancelled
+5291,899,1027,Fever,14/5/2025,2235,Insurance,Online,Completed
+5292,1584,1009,Migraine,1/8/2024,1433,Card,Call,Completed
+5293,281,1027,Back Pain,6/12/2024,1336,Digital Wallet,Online,No-Show
+5294,1135,1001,Chest Pain,26/12/2024,865,Cash,Online,Cancelled
+5295,289,1027,General Checkup,3/6/2025,2282,Card,In Person,Scheduled
+5296,948,1027,Chest Pain,9/12/2024,1832,Insurance,Call,Completed
+5297,1495,1027,General Checkup,13/12/2024,1438,Digital Wallet,In Person,Cancelled
+5298,625,1027,Fever,14/12/2024,2213,Card,Online,Completed
+5299,496,1001,Hypertension,28/11/2024,1450,Insurance,Call,Cancelled
+5300,153,1024,Diabetes,20/1/2025,2000,Digital Wallet,Call,Cancelled
+5301,548,1027,Chest Pain,27/11/2024,1294,Cash,Online,Completed
+5302,304,1024,Diabetes,27/6/2025,2210,Insurance,In Person,Scheduled
+5303,276,1009,Migraine,3/12/2024,2419,Digital Wallet,Call,Completed
+5304,449,1024,Diabetes,6/9/2024,2137,Cash,In Person,Completed
+5305,1042,1024,Diabetes,8/1/2025,829,Card,In Person,Completed
+5306,690,1027,General Checkup,21/12/2024,1045,Card,Online,Completed
+5307,874,1027,Back Pain,7/12/2024,1609,Insurance,Call,Completed
+5308,1316,1024,Diabetes,24/7/2024,2383,Insurance,Call,Completed
+5309,803,1027,Headache,24/6/2025,1052,Cash,In Person,Scheduled
+5310,524,1020,Asthma,12/12/2024,2115,Cash,Call,Completed
+5311,213,1027,Back Pain,4/3/2025,892,Card,In Person,Completed
+5312,703,1027,General Checkup,2/12/2024,1292,Cash,Online,Completed
+5313,1190,1024,Diabetes,2/12/2024,1090,Digital Wallet,Online,Cancelled
+5314,934,1020,Asthma,14/5/2025,1141,Cash,Call,Completed
+5315,1082,1004,Hypertension,2/2/2025,1600,Cash,Call,Completed
+5316,977,1020,Asthma,14/7/2024,1520,Insurance,Online,Completed
+5317,1486,1027,Headache,30/7/2024,2416,Insurance,Online,Completed
+5318,705,1024,Diabetes,15/7/2024,2283,Insurance,Call,Completed
+5319,405,1024,Diabetes,15/6/2025,1892,Digital Wallet,Call,Scheduled
+5320,1399,1027,General Checkup,1/4/2025,1041,Card,Online,Completed
+5321,271,1027,Fever,28/3/2025,1455,Digital Wallet,Call,Completed
+5322,181,1020,Asthma,25/12/2024,1677,Cash,In Person,Completed
+5323,839,1027,Headache,27/11/2024,1806,Digital Wallet,Online,Completed
+5324,818,1027,General Checkup,13/9/2024,2386,Card,Online,Completed
+5325,302,1020,Asthma,7/4/2025,2287,Digital Wallet,In Person,No-Show
+5326,1373,1027,General Checkup,15/8/2024,1789,Cash,Call,Completed
+5327,1004,1002,Hypertension,20/9/2024,1321,Card,In Person,Completed
+5328,387,1027,Fever,18/7/2024,1484,Cash,In Person,Completed
+5329,1079,1020,Asthma,14/5/2025,1411,Cash,Call,Completed
+5330,716,1027,Chest Pain,8/2/2025,1634,Card,Online,Completed
+5331,735,1008,Migraine,4/6/2025,1670,Digital Wallet,In Person,Scheduled
+5332,1226,1001,Chest Pain,20/11/2024,1357,Insurance,Call,Completed
+5333,712,1027,Fever,12/7/2024,1985,Insurance,In Person,Completed
+5334,517,1001,Hypertension,1/6/2025,1241,Insurance,Call,Scheduled
+5335,527,1027,Chest Pain,20/3/2025,1324,Digital Wallet,In Person,Completed
+5336,808,1009,Migraine,16/1/2025,2289,Digital Wallet,Online,No-Show
+5337,813,1024,Diabetes,17/8/2024,2030,Card,In Person,Completed
+5338,1539,1027,Chest Pain,16/3/2025,2209,Insurance,Online,Completed
+5339,146,1027,Headache,5/8/2024,1883,Card,Call,Completed
+5340,1258,1024,Diabetes,19/12/2024,1617,Cash,Call,Completed
+5341,1511,1027,Fever,8/3/2025,1537,Digital Wallet,In Person,Completed
+5342,233,1027,Headache,15/5/2025,2260,Insurance,In Person,Completed
+5343,1168,1020,Asthma,22/2/2025,2208,Insurance,Online,Cancelled
+5344,1455,1024,Diabetes,29/6/2025,2381,Card,Online,Scheduled
+5345,139,1008,Migraine,23/7/2024,1993,Cash,In Person,Completed
+5346,990,1020,Asthma,31/3/2025,1195,Cash,Call,No-Show
+5347,296,1020,Asthma,11/9/2024,2245,Digital Wallet,Call,Completed
+5348,332,1027,Back Pain,24/2/2025,1011,Cash,Call,Completed
+5349,488,1020,Asthma,5/8/2024,1498,Cash,Call,Completed
+5350,220,1027,General Checkup,8/3/2025,2073,Card,In Person,Completed
+5351,1275,1001,Chest Pain,2/6/2025,1843,Digital Wallet,Call,Scheduled
+5352,1267,1027,Chest Pain,28/6/2025,1687,Insurance,Call,Scheduled
+5353,1388,1027,Fever,12/11/2024,2437,Digital Wallet,In Person,No-Show
+5354,949,1027,Chest Pain,14/4/2025,2464,Digital Wallet,In Person,No-Show
+5355,1583,1027,Fever,24/11/2024,1529,Digital Wallet,Call,Completed
+5356,1081,1001,Hypertension,30/4/2025,1340,Digital Wallet,Call,Completed
+5357,946,1027,Headache,25/1/2025,916,Insurance,Call,Completed
+5358,923,1027,Back Pain,5/5/2025,1528,Cash,Online,Cancelled
+5359,282,1020,Asthma,13/1/2025,1586,Card,In Person,Completed
+5360,1444,1027,Headache,31/8/2024,1701,Card,Online,Completed
+5361,1246,1027,Back Pain,24/1/2025,1187,Insurance,Call,Completed
+5362,256,1002,Hypertension,23/8/2024,2462,Digital Wallet,In Person,Completed
+5363,1500,1027,Headache,28/4/2025,1288,Digital Wallet,In Person,Completed
+5364,1078,1027,Fever,7/4/2025,2165,Card,In Person,Completed
+5365,1003,1024,Diabetes,12/1/2025,1150,Insurance,Online,Completed
+5366,216,1027,Back Pain,3/5/2025,1907,Digital Wallet,Online,Completed
+5367,1268,1027,Fever,22/2/2025,954,Digital Wallet,Online,Completed
+5368,1573,1002,Hypertension,13/1/2025,2473,Cash,In Person,Completed
+5369,678,1024,Diabetes,3/4/2025,834,Cash,In Person,No-Show
+5370,412,1027,Headache,31/3/2025,2319,Digital Wallet,Online,Completed
+5371,575,1027,Chest Pain,14/5/2025,2401,Cash,In Person,Completed
+5372,1196,1020,Asthma,23/4/2025,2031,Cash,In Person,No-Show
+5373,643,1001,Chest Pain,23/4/2025,1376,Insurance,Online,Completed
+5374,616,1020,Asthma,30/9/2024,2197,Cash,Call,Completed
+5375,191,1027,General Checkup,3/10/2024,2440,Insurance,In Person,Completed
+5376,1008,1027,General Checkup,17/9/2024,1662,Card,In Person,Completed
+5377,461,1020,Asthma,20/5/2025,1200,Cash,In Person,Completed
+5378,337,1004,Hypertension,27/10/2024,2140,Cash,In Person,Completed
+5379,1217,1027,Back Pain,9/4/2025,1653,Cash,In Person,Completed
+5380,1200,1024,Diabetes,5/5/2025,2239,Digital Wallet,Online,Completed
+5381,1125,1001,Chest Pain,8/12/2024,2348,Digital Wallet,Call,Completed
+5382,191,1027,General Checkup,6/6/2025,1868,Cash,In Person,Scheduled
+5383,1051,1027,Back Pain,24/11/2024,926,Card,Online,Completed
+5384,222,1027,Headache,3/5/2025,862,Card,In Person,Completed
+5385,1551,1002,Hypertension,26/4/2025,1636,Insurance,Online,Completed
+5386,460,1024,Diabetes,11/5/2025,1927,Card,In Person,Completed
+5387,1224,1027,General Checkup,9/3/2025,1300,Insurance,Online,Completed
+5388,289,1024,Diabetes,5/10/2024,1212,Card,Online,Completed
+5389,1017,1027,Fever,27/3/2025,1227,Digital Wallet,In Person,Completed
+5390,571,1027,Back Pain,1/8/2024,1048,Insurance,In Person,No-Show
+5391,1209,1024,Diabetes,15/4/2025,1715,Insurance,Call,No-Show
+5392,1118,1027,Chest Pain,13/2/2025,2070,Cash,In Person,Completed
+5393,1325,1024,Diabetes,20/3/2025,1425,Insurance,Call,Completed
+5394,1501,1027,Headache,10/11/2024,1909,Insurance,Call,Completed
+5395,1482,1027,Fever,8/6/2025,816,Cash,Online,Scheduled
+5396,776,1009,Migraine,29/7/2024,2421,Cash,Call,Completed
+5397,361,1027,General Checkup,14/12/2024,1137,Insurance,In Person,No-Show
+5398,1189,1027,Headache,26/7/2024,2143,Insurance,In Person,Completed
+5399,337,1009,Migraine,3/10/2024,1567,Card,Call,Completed
+5400,566,1008,Migraine,1/1/2025,2353,Card,Online,Completed
+5401,672,1008,Migraine,21/12/2024,2063,Digital Wallet,Online,Completed
+5402,318,1001,Chest Pain,10/7/2024,1668,Card,Call,Cancelled
+5403,1111,1001,Hypertension,3/12/2024,2470,Card,Online,Completed
+5404,1208,1027,Fever,14/2/2025,1271,Card,In Person,Completed
+5405,1333,1024,Diabetes,29/1/2025,1735,Digital Wallet,In Person,Completed
+5406,791,1009,Migraine,14/7/2024,2432,Insurance,In Person,Completed
+5407,1527,1027,Headache,9/11/2024,1687,Insurance,In Person,Completed
+5408,171,1004,Hypertension,1/12/2024,1171,Digital Wallet,Online,Cancelled
+5409,408,1008,Migraine,25/12/2024,1528,Card,In Person,Completed
+5410,1538,1027,General Checkup,18/3/2025,1407,Insurance,Call,Completed
+5411,891,1020,Asthma,8/8/2024,1075,Cash,Online,Completed
+5412,258,1024,Diabetes,15/9/2024,2376,Card,Call,Completed
+5413,1500,1001,Hypertension,13/7/2024,2150,Card,In Person,Completed
+5414,532,1020,Asthma,9/9/2024,1137,Insurance,In Person,Completed
+5415,1030,1002,Hypertension,15/5/2025,1748,Cash,Call,Completed
+5416,413,1027,General Checkup,4/4/2025,807,Digital Wallet,Call,Completed
+5417,1421,1027,Back Pain,22/4/2025,1768,Digital Wallet,Call,Completed
+5418,776,1002,Hypertension,28/2/2025,1951,Cash,Online,Completed
+5419,182,1027,Chest Pain,17/7/2024,1477,Digital Wallet,Call,Completed
+5420,968,1001,Chest Pain,4/8/2024,2200,Cash,In Person,Completed
+5421,811,1024,Diabetes,30/8/2024,1585,Insurance,Online,Completed
+5422,1023,1020,Asthma,4/8/2024,1790,Cash,Call,Completed
+5423,925,1024,Diabetes,30/12/2024,1520,Cash,Call,Completed
+5424,1277,1004,Hypertension,28/6/2025,1816,Digital Wallet,In Person,Scheduled
+5425,142,1027,General Checkup,31/3/2025,1531,Card,In Person,Completed
+5426,413,1027,Headache,22/3/2025,1922,Insurance,Online,Completed
+5427,1100,1027,General Checkup,16/5/2025,1857,Card,Online,Completed
+5428,501,1027,Chest Pain,15/8/2024,1199,Insurance,Online,No-Show
+5429,1509,1027,Back Pain,29/8/2024,2030,Card,In Person,Completed
+5430,519,1020,Asthma,31/7/2024,1495,Digital Wallet,Online,Completed
+5431,607,1024,Diabetes,27/7/2024,1946,Cash,In Person,Completed
+5432,1582,1020,Asthma,7/3/2025,2249,Cash,Call,Completed
+5433,783,1024,Diabetes,14/10/2024,1247,Insurance,Call,No-Show
+5434,1366,1009,Migraine,24/8/2024,2131,Card,In Person,Completed
+5435,1106,1002,Hypertension,25/9/2024,1691,Card,Call,No-Show
+5436,1598,1027,Back Pain,23/6/2025,1424,Insurance,Call,Scheduled
+5437,199,1020,Asthma,24/1/2025,1982,Card,Call,Completed
+5438,473,1027,Back Pain,22/4/2025,1725,Digital Wallet,Online,Completed
+5439,580,1009,Migraine,16/10/2024,1922,Digital Wallet,In Person,Completed
+5440,1257,1001,Chest Pain,30/8/2024,1085,Digital Wallet,In Person,No-Show
+5441,511,1027,Headache,22/5/2025,2498,Card,Call,Completed
+5442,604,1027,Fever,12/10/2024,2227,Card,In Person,Completed
+5443,732,1020,Asthma,21/12/2024,1733,Card,Call,No-Show
+5444,313,1009,Migraine,8/1/2025,976,Card,In Person,Completed
+5445,1336,1024,Diabetes,14/10/2024,1051,Card,In Person,Cancelled
+5446,266,1027,Fever,12/12/2024,1031,Insurance,In Person,Completed
+5447,1260,1001,Chest Pain,9/10/2024,1830,Card,Online,Completed
+5448,1584,1027,Chest Pain,23/5/2025,1293,Insurance,Online,Completed
+5449,744,1027,General Checkup,6/7/2024,1166,Digital Wallet,Call,Completed
+5450,1071,1027,Fever,2/12/2024,1502,Insurance,Online,Completed
+5451,1180,1027,Fever,19/2/2025,2488,Digital Wallet,Online,No-Show
+5452,805,1003,Hypertension,24/5/2025,1631,Insurance,In Person,Completed
+5453,898,1003,Hypertension,30/4/2025,1271,Insurance,Call,Completed
+5454,903,1020,Asthma,6/3/2025,1177,Card,Online,Completed
+5455,1338,1024,Diabetes,7/12/2024,1712,Digital Wallet,Online,Completed
+5456,1096,1020,Asthma,18/8/2024,1527,Cash,Call,Completed
+5457,1019,1027,Back Pain,31/5/2025,1664,Cash,In Person,Completed
+5458,1083,1027,Fever,8/7/2024,879,Card,Call,Cancelled
+5459,1570,1027,Back Pain,8/6/2025,1871,Cash,In Person,Scheduled
+5460,1003,1027,Back Pain,2/5/2025,2018,Insurance,Online,Completed
+5461,894,1008,Migraine,8/9/2024,817,Digital Wallet,In Person,Completed
+5462,957,1024,Diabetes,16/8/2024,1027,Digital Wallet,Call,Completed
+5463,1445,1027,Fever,23/9/2024,2292,Cash,Call,Completed
+5464,711,1027,General Checkup,11/6/2025,1963,Digital Wallet,In Person,Scheduled
+5465,560,1024,Diabetes,19/11/2024,2403,Cash,Call,Completed
+5466,264,1024,Diabetes,4/12/2024,1856,Insurance,Online,Completed
+5467,552,1027,Back Pain,31/1/2025,2029,Cash,Call,Completed
+5468,1278,1027,General Checkup,3/6/2025,946,Digital Wallet,Call,Scheduled
+5469,1128,1020,Asthma,22/9/2024,1944,Digital Wallet,Call,Completed
+5470,768,1027,Back Pain,16/9/2024,1835,Insurance,In Person,Completed
+5471,641,1001,Chest Pain,26/1/2025,1084,Digital Wallet,Online,Completed
+5472,712,1027,Headache,21/11/2024,1476,Digital Wallet,Online,Completed
+5473,812,1009,Migraine,23/11/2024,1939,Insurance,Online,Completed
+5474,1585,1020,Asthma,18/12/2024,2328,Insurance,Online,No-Show
+5475,1419,1024,Diabetes,26/8/2024,2163,Cash,Online,Completed
+5476,858,1027,Back Pain,1/11/2024,1054,Cash,In Person,Completed
+5477,512,1027,General Checkup,24/8/2024,903,Insurance,Online,Completed
+5478,1010,1027,General Checkup,1/6/2025,2114,Card,Call,Scheduled
+5479,1127,1002,Hypertension,16/5/2025,1630,Card,Online,Completed
+5480,272,1004,Hypertension,25/2/2025,2232,Insurance,Call,Completed
+5481,334,1027,Fever,5/6/2025,1453,Digital Wallet,Call,Scheduled
+5482,198,1027,General Checkup,14/12/2024,1092,Insurance,Online,Completed
+5483,500,1008,Migraine,24/9/2024,2155,Insurance,In Person,Completed
+5484,1234,1027,Headache,4/2/2025,829,Insurance,Call,Cancelled
+5485,320,1027,Back Pain,2/1/2025,2313,Card,Call,No-Show
+5486,723,1020,Asthma,27/6/2025,1216,Card,In Person,Scheduled
+5487,1310,1027,General Checkup,8/9/2024,2199,Insurance,In Person,Completed
+5488,1493,1001,Chest Pain,11/7/2024,2244,Digital Wallet,In Person,Completed
+5489,633,1027,Headache,30/12/2024,1714,Card,Call,Completed
+5490,1391,1027,Chest Pain,13/5/2025,1785,Cash,Online,Cancelled
+5491,1114,1024,Diabetes,21/10/2024,900,Digital Wallet,Call,Completed
+5492,762,1027,Fever,25/1/2025,1165,Insurance,In Person,Completed
+5493,318,1027,Fever,24/6/2025,1499,Card,In Person,Scheduled
+5494,192,1027,Chest Pain,5/11/2024,2169,Card,Online,Cancelled
+5495,442,1024,Diabetes,27/2/2025,1872,Cash,In Person,No-Show
+5496,196,1008,Migraine,13/4/2025,2174,Digital Wallet,In Person,Completed
+5497,788,1027,Chest Pain,20/5/2025,2123,Digital Wallet,In Person,Completed
+5498,613,1027,General Checkup,6/9/2024,1059,Cash,Online,Completed
+5499,768,1027,Back Pain,14/12/2024,2251,Cash,Call,Completed
+5500,1564,1020,Asthma,27/2/2025,2445,Insurance,In Person,Completed
+5501,188,1020,Asthma,2/5/2025,1123,Digital Wallet,Call,No-Show
+5502,104,1001,Chest Pain,15/3/2025,2251,Digital Wallet,Call,Completed
+5503,607,1024,Diabetes,8/9/2024,1520,Cash,Online,Completed
+5504,322,1001,Chest Pain,3/10/2024,2443,Insurance,In Person,Completed
+5505,1271,1020,Asthma,29/3/2025,1092,Insurance,Call,No-Show
+5506,1063,1027,Headache,1/6/2025,1656,Card,Call,Scheduled
+5507,194,1027,Headache,23/5/2025,1547,Card,In Person,Completed
+5508,349,1027,Headache,1/10/2024,1644,Insurance,Call,Completed
+5509,1009,1020,Asthma,14/10/2024,1370,Card,In Person,Completed
+5510,929,1027,Back Pain,14/1/2025,1578,Card,In Person,Completed
+5511,1195,1027,Chest Pain,23/8/2024,1160,Insurance,Online,Completed
+5512,755,1008,Migraine,30/9/2024,1291,Insurance,Call,Completed
+5513,1556,1001,Chest Pain,1/3/2025,1243,Cash,Online,No-Show
+5514,553,1027,Back Pain,28/9/2024,1038,Insurance,Call,Completed
+5515,350,1001,Chest Pain,8/5/2025,1688,Insurance,In Person,Completed
+5516,449,1027,Fever,27/12/2024,909,Cash,In Person,Completed
+5517,872,1027,General Checkup,13/1/2025,1417,Card,In Person,Completed
+5518,686,1027,Headache,16/2/2025,2072,Cash,Online,Completed
+5519,894,1009,Migraine,2/2/2025,1448,Digital Wallet,Call,Completed
+5520,596,1001,Chest Pain,8/8/2024,2032,Digital Wallet,In Person,Completed
+5521,548,1002,Hypertension,28/4/2025,837,Insurance,Call,Completed
+5522,527,1027,Headache,26/2/2025,2237,Cash,Call,Completed
+5523,886,1027,Fever,21/7/2024,1306,Digital Wallet,Online,No-Show
+5524,1284,1027,General Checkup,7/12/2024,1337,Digital Wallet,Online,Completed
+5525,1442,1027,Fever,24/7/2024,1361,Card,In Person,Completed
+5526,886,1027,Back Pain,15/4/2025,1001,Cash,In Person,Completed
+5527,1160,1027,General Checkup,14/7/2024,1868,Digital Wallet,In Person,Completed
+5528,945,1024,Diabetes,21/12/2024,820,Card,In Person,Completed
+5529,1384,1027,Fever,25/5/2025,2480,Digital Wallet,Online,Completed
+5530,1282,1024,Diabetes,29/5/2025,2462,Insurance,Online,Cancelled
+5531,1177,1027,Fever,27/9/2024,958,Insurance,Online,Completed
+5532,471,1027,General Checkup,7/8/2024,1938,Digital Wallet,Online,Completed
+5533,745,1008,Migraine,30/8/2024,1998,Digital Wallet,Online,Completed
+5534,381,1027,Back Pain,4/12/2024,2327,Card,Call,Completed
+5535,536,1027,Back Pain,2/9/2024,1461,Cash,Call,Completed
+5536,690,1020,Asthma,4/1/2025,2424,Insurance,In Person,Completed
+5537,350,1003,Hypertension,28/9/2024,2285,Digital Wallet,In Person,Completed
+5538,663,1024,Diabetes,16/6/2025,1744,Card,Call,Scheduled
+5539,851,1024,Diabetes,18/1/2025,1099,Cash,In Person,Cancelled
+5540,499,1004,Hypertension,22/5/2025,995,Card,Call,Completed
+5541,977,1027,Headache,16/3/2025,1340,Insurance,In Person,Completed
+5542,534,1020,Asthma,20/11/2024,1053,Digital Wallet,Online,Completed
+5543,1130,1027,Headache,4/11/2024,1936,Card,Online,Completed
+5544,509,1001,Chest Pain,28/4/2025,1558,Digital Wallet,Online,No-Show
+5545,1273,1003,Hypertension,7/4/2025,1748,Card,In Person,Completed
+5546,1338,1020,Asthma,9/3/2025,2467,Cash,Call,Completed
+5547,454,1020,Asthma,21/11/2024,1949,Cash,Online,Completed
+5548,219,1027,Headache,3/10/2024,1843,Digital Wallet,Call,Completed
+5549,796,1001,Hypertension,29/10/2024,2443,Cash,Call,Completed
+5550,229,1027,Headache,31/3/2025,2131,Digital Wallet,Online,Cancelled
+5551,163,1001,Chest Pain,1/2/2025,2438,Cash,Online,No-Show
+5552,200,1027,Headache,16/11/2024,1490,Cash,Online,Completed
+5553,1500,1027,Back Pain,1/5/2025,1981,Insurance,In Person,Completed
+5554,1284,1001,Hypertension,1/11/2024,2116,Card,In Person,Completed
+5555,401,1008,Migraine,31/12/2024,1994,Digital Wallet,In Person,Completed
+5556,1026,1020,Asthma,28/2/2025,998,Card,Online,Completed
+5557,268,1027,Headache,12/10/2024,2025,Cash,Online,Completed
+5558,815,1027,General Checkup,24/5/2025,879,Digital Wallet,Call,Completed
+5559,1455,1008,Migraine,2/3/2025,1560,Card,Call,No-Show
+5560,1187,1027,Back Pain,26/9/2024,1678,Card,Call,Completed
+5561,604,1027,Headache,15/11/2024,2382,Cash,Call,Completed
+5562,1184,1024,Diabetes,6/7/2024,1486,Digital Wallet,Call,Completed
+5563,801,1020,Asthma,19/12/2024,2424,Cash,Call,Completed
+5564,936,1001,Hypertension,20/2/2025,1015,Digital Wallet,Call,Completed
+5565,569,1001,Hypertension,26/2/2025,1997,Insurance,Online,Completed
+5566,748,1004,Hypertension,23/6/2025,1420,Digital Wallet,Call,Scheduled
+5567,574,1027,Headache,8/12/2024,1262,Digital Wallet,In Person,Completed
+5568,349,1020,Asthma,7/4/2025,1784,Cash,Online,Completed
+5569,388,1027,Fever,31/10/2024,1507,Digital Wallet,Online,No-Show
+5570,490,1020,Asthma,5/8/2024,1219,Card,Online,No-Show
+5571,1098,1027,Fever,24/11/2024,1511,Digital Wallet,Online,Completed
+5572,1316,1004,Hypertension,7/11/2024,1387,Insurance,Online,Completed
+5573,1008,1001,Hypertension,26/12/2024,2235,Card,In Person,Completed
+5574,499,1027,Fever,18/5/2025,1988,Insurance,Call,Completed
+5575,483,1009,Migraine,18/4/2025,1463,Digital Wallet,Call,Completed
+5576,955,1001,Chest Pain,31/7/2024,1022,Cash,In Person,Completed
+5577,1014,1027,Back Pain,3/10/2024,840,Insurance,Call,Completed
+5578,1541,1027,General Checkup,11/4/2025,1100,Card,Online,Completed
+5579,1406,1027,Headache,9/6/2025,2371,Digital Wallet,In Person,Scheduled
+5580,1110,1024,Diabetes,20/12/2024,1817,Insurance,In Person,Completed
+5581,1191,1027,Fever,21/4/2025,2422,Insurance,Online,Completed
+5582,614,1027,General Checkup,5/4/2025,997,Digital Wallet,Call,Completed
+5583,1115,1020,Asthma,16/9/2024,1992,Digital Wallet,Call,Completed
+5584,814,1027,General Checkup,5/11/2024,2110,Digital Wallet,In Person,Completed
+5585,277,1027,Headache,26/10/2024,1477,Cash,Call,Completed
+5586,1209,1027,Headache,5/11/2024,2115,Insurance,Online,Completed
+5587,305,1020,Asthma,30/12/2024,1711,Card,In Person,Completed
+5588,929,1024,Diabetes,16/8/2024,2201,Digital Wallet,Online,Completed
+5589,1358,1027,General Checkup,21/12/2024,1889,Digital Wallet,Online,Completed
+5590,737,1024,Diabetes,17/1/2025,1680,Cash,Call,Completed
+5591,1585,1003,Hypertension,24/12/2024,838,Insurance,Online,Completed
+5592,1168,1020,Asthma,17/8/2024,1342,Card,In Person,Cancelled
+5593,1291,1027,Back Pain,6/4/2025,2479,Card,Online,Completed
+5594,752,1027,Headache,28/6/2025,1033,Cash,Call,Scheduled
+5595,928,1027,General Checkup,17/11/2024,1889,Digital Wallet,In Person,Completed
+5596,407,1008,Migraine,12/2/2025,1561,Card,Online,Completed
+5597,809,1008,Migraine,2/5/2025,1700,Digital Wallet,Online,Completed
+5598,336,1024,Diabetes,13/1/2025,2427,Cash,In Person,Completed
+5599,1571,1008,Migraine,31/3/2025,1198,Digital Wallet,In Person,Completed
+5600,678,1008,Migraine,17/6/2025,1690,Cash,Online,Scheduled
+5601,193,1027,Fever,22/8/2024,1010,Cash,Call,Completed
+5602,1037,1009,Migraine,23/11/2024,2157,Digital Wallet,Online,Completed
+5603,692,1027,Chest Pain,11/4/2025,1721,Cash,Online,Completed
+5604,1094,1001,Hypertension,18/12/2024,2189,Digital Wallet,Online,Completed
+5605,259,1001,Chest Pain,3/3/2025,864,Cash,Online,Completed
+5606,1218,1027,Chest Pain,4/9/2024,2095,Card,Call,Completed
+5607,690,1027,Headache,30/1/2025,2375,Card,In Person,No-Show
+5608,735,1020,Asthma,4/1/2025,1075,Digital Wallet,Call,Completed
+5609,1521,1020,Asthma,2/3/2025,1178,Insurance,In Person,Completed
+5610,755,1001,Chest Pain,29/8/2024,1617,Cash,Online,Completed
+5611,189,1027,Fever,11/9/2024,1234,Insurance,Online,Completed
+5612,1068,1027,Back Pain,24/10/2024,2106,Insurance,In Person,Completed
+5613,1363,1027,Headache,3/9/2024,1499,Insurance,In Person,Completed
+5614,160,1027,Back Pain,18/6/2025,2209,Insurance,Online,Scheduled
+5615,1074,1027,Headache,7/6/2025,2338,Cash,Online,Scheduled
+5616,1564,1027,Fever,18/4/2025,829,Cash,Online,No-Show
+5617,1259,1020,Asthma,31/5/2025,1350,Digital Wallet,In Person,Completed
+5618,416,1020,Asthma,13/3/2025,1101,Insurance,Online,Completed
+5619,1217,1009,Migraine,20/4/2025,1853,Digital Wallet,In Person,Completed
+5620,1008,1024,Diabetes,10/6/2025,1953,Card,Online,Scheduled
+5621,1161,1027,Headache,26/11/2024,1821,Insurance,In Person,No-Show
+5622,1049,1020,Asthma,28/2/2025,2495,Insurance,In Person,Completed
+5623,1514,1027,Headache,13/1/2025,1716,Insurance,In Person,Completed
+5624,870,1027,Fever,15/4/2025,2475,Card,Online,No-Show
+5625,271,1004,Hypertension,9/10/2024,1726,Cash,In Person,Completed
+5626,1006,1024,Diabetes,10/11/2024,2249,Card,Call,Completed
+5627,781,1001,Chest Pain,4/3/2025,2453,Card,Online,Completed
+5628,768,1027,Back Pain,9/4/2025,1551,Card,Call,Completed
+5629,786,1027,Fever,5/8/2024,959,Cash,Call,Completed
+5630,324,1027,Chest Pain,24/9/2024,1307,Insurance,In Person,Cancelled
+5631,1450,1027,Back Pain,4/5/2025,1246,Digital Wallet,Call,No-Show
+5632,1037,1027,General Checkup,4/2/2025,2467,Insurance,In Person,Completed
+5633,411,1027,General Checkup,13/1/2025,1435,Card,Online,Completed
+5634,602,1009,Migraine,29/12/2024,1548,Insurance,In Person,Completed
+5635,651,1024,Diabetes,8/9/2024,2230,Card,Call,Completed
+5636,924,1020,Asthma,15/5/2025,2469,Cash,In Person,Completed
+5637,557,1020,Asthma,5/12/2024,1966,Cash,Online,Completed
+5638,1527,1027,Back Pain,20/8/2024,1474,Insurance,Call,Completed
+5639,257,1003,Hypertension,18/12/2024,1509,Card,Online,Completed
+5640,593,1027,General Checkup,1/1/2025,841,Cash,Call,Completed
+5641,432,1008,Migraine,11/12/2024,2006,Card,In Person,Completed
+5642,234,1008,Migraine,11/5/2025,1811,Digital Wallet,Call,Completed
+5643,1429,1009,Migraine,13/9/2024,2313,Digital Wallet,Online,Completed
+5644,1250,1027,General Checkup,25/2/2025,2065,Digital Wallet,Online,Completed
+5645,287,1027,Fever,29/4/2025,977,Insurance,Call,Completed
+5646,1181,1027,Fever,15/10/2024,2449,Cash,In Person,Completed
+5647,183,1027,Back Pain,19/2/2025,1788,Insurance,Online,Completed
+5648,1437,1002,Hypertension,13/11/2024,1786,Digital Wallet,Call,Completed
+5649,1511,1008,Migraine,2/8/2024,1930,Card,Call,Completed
+5650,678,1008,Migraine,28/8/2024,2233,Insurance,Online,Completed
+5651,177,1020,Asthma,24/9/2024,1040,Digital Wallet,In Person,No-Show
+5652,710,1027,General Checkup,13/12/2024,1254,Digital Wallet,Call,Cancelled
+5653,935,1027,Chest Pain,26/9/2024,1092,Digital Wallet,In Person,Completed
+5654,510,1008,Migraine,20/5/2025,1982,Insurance,Call,Completed
+5655,410,1001,Hypertension,2/2/2025,2472,Insurance,Call,Completed
+5656,483,1027,Fever,28/3/2025,1653,Insurance,Online,Completed
+5657,548,1027,Fever,5/1/2025,2126,Cash,Call,Completed
+5658,680,1024,Diabetes,16/10/2024,1855,Insurance,Online,Completed
+5659,1124,1027,Chest Pain,14/12/2024,1136,Cash,In Person,No-Show
+5660,1341,1020,Asthma,29/1/2025,1328,Digital Wallet,In Person,Completed
+5661,188,1027,Headache,14/6/2025,1474,Card,Call,Scheduled
+5662,1467,1001,Hypertension,27/6/2025,1385,Cash,Online,Scheduled
+5663,662,1024,Diabetes,1/2/2025,1222,Digital Wallet,In Person,Completed
+5664,1416,1003,Hypertension,11/8/2024,971,Card,In Person,No-Show
+5665,921,1027,Chest Pain,8/2/2025,1791,Digital Wallet,Online,No-Show
+5666,334,1003,Hypertension,5/2/2025,1817,Insurance,Online,No-Show
+5667,104,1027,Fever,23/3/2025,1767,Digital Wallet,Call,Completed
+5668,823,1020,Asthma,5/6/2025,2294,Card,Online,Scheduled
+5669,565,1027,Fever,21/11/2024,848,Insurance,In Person,Completed
+5670,1302,1027,General Checkup,19/12/2024,1849,Digital Wallet,In Person,Completed
+5671,869,1027,Chest Pain,22/5/2025,2325,Digital Wallet,Call,Cancelled
+5672,838,1027,Back Pain,11/10/2024,2093,Digital Wallet,Online,Completed
+5673,942,1027,Headache,31/1/2025,1600,Cash,Online,Completed
+5674,981,1009,Migraine,7/6/2025,2484,Cash,Call,Scheduled
+5675,1092,1027,Headache,17/9/2024,2140,Digital Wallet,In Person,Completed
+5676,464,1004,Hypertension,5/6/2025,1715,Cash,Online,Scheduled
+5677,888,1027,Back Pain,18/8/2024,1862,Cash,In Person,No-Show
+5678,856,1027,Back Pain,27/3/2025,982,Card,Online,Completed
+5679,742,1009,Migraine,15/5/2025,1379,Digital Wallet,Online,Cancelled
+5680,1316,1027,General Checkup,30/7/2024,2405,Card,Online,Completed
+5681,963,1027,Back Pain,18/10/2024,1351,Card,Online,Completed
+5682,964,1027,Back Pain,6/12/2024,987,Card,Online,Completed
+5683,1301,1024,Diabetes,16/4/2025,1474,Digital Wallet,Call,Completed
+5684,1212,1027,Back Pain,29/3/2025,890,Digital Wallet,Online,Completed
+5685,1053,1027,Chest Pain,11/3/2025,1385,Card,Call,Completed
+5686,1059,1008,Migraine,8/1/2025,1041,Cash,Online,Completed
+5687,929,1009,Migraine,24/5/2025,1703,Digital Wallet,Call,Completed
+5688,340,1027,General Checkup,20/3/2025,1559,Cash,Online,Completed
+5689,502,1020,Asthma,3/9/2024,822,Cash,Call,Completed
+5690,642,1027,General Checkup,27/2/2025,2088,Cash,Online,Completed
+5691,1244,1027,Headache,9/7/2024,2437,Card,Call,Completed
+5692,223,1001,Hypertension,6/10/2024,925,Card,Call,Completed
+5693,184,1027,General Checkup,23/12/2024,1896,Card,Online,No-Show
+5694,1371,1027,General Checkup,18/11/2024,1665,Digital Wallet,In Person,Completed
+5695,192,1027,General Checkup,24/1/2025,2090,Insurance,In Person,Completed
+5696,166,1008,Migraine,28/12/2024,2243,Card,In Person,Completed
+5697,1073,1020,Asthma,13/8/2024,1465,Insurance,In Person,Completed
+5698,141,1003,Hypertension,23/9/2024,2194,Insurance,Call,Completed
+5699,1207,1027,Chest Pain,1/3/2025,2337,Card,In Person,Completed
+5700,1487,1009,Migraine,7/1/2025,1441,Card,Call,No-Show
+5701,664,1020,Asthma,25/1/2025,945,Insurance,In Person,Completed
+5702,1553,1004,Hypertension,11/2/2025,2391,Cash,Online,Completed
+5703,1509,1009,Migraine,26/6/2025,952,Card,Online,Scheduled
+5704,1317,1027,General Checkup,15/9/2024,2164,Digital Wallet,In Person,Completed
+5705,181,1027,Back Pain,9/6/2025,854,Insurance,Call,Scheduled
+5706,460,1027,Chest Pain,10/10/2024,1800,Insurance,Online,Completed
+5707,1438,1027,Fever,3/9/2024,1559,Card,Online,Completed
+5708,796,1027,Chest Pain,23/11/2024,1128,Cash,Online,Completed
+5709,1162,1001,Chest Pain,22/2/2025,2031,Cash,Call,Completed
+5710,978,1027,Fever,18/2/2025,2374,Digital Wallet,In Person,Completed
+5711,1392,1027,Headache,8/5/2025,2112,Insurance,Online,No-Show
+5712,591,1027,Fever,16/2/2025,2499,Insurance,Online,Completed
+5713,909,1027,Chest Pain,1/5/2025,1150,Card,Online,Completed
+5714,649,1027,Headache,13/6/2025,2499,Cash,Call,Scheduled
+5715,307,1027,Headache,15/8/2024,1607,Digital Wallet,Call,Completed
+5716,570,1001,Hypertension,4/11/2024,1804,Cash,Online,Completed
+5717,1032,1027,Fever,29/3/2025,1644,Insurance,In Person,Completed
+5718,608,1027,Fever,26/7/2024,2317,Insurance,In Person,Completed
+5719,1505,1003,Hypertension,6/2/2025,2273,Cash,Online,Completed
+5720,1193,1027,Chest Pain,18/6/2025,1682,Cash,Online,Scheduled
+5721,536,1001,Hypertension,21/11/2024,1430,Card,Online,Completed
+5722,1460,1027,Fever,1/11/2024,1512,Cash,Call,Completed
+5723,1266,1027,Chest Pain,12/8/2024,1522,Cash,Online,Completed
+5724,1306,1003,Hypertension,2/4/2025,1552,Digital Wallet,Call,Completed
+5725,127,1024,Diabetes,30/10/2024,1659,Digital Wallet,Call,Completed
+5726,884,1027,Fever,28/5/2025,1025,Cash,Call,No-Show
+5727,478,1027,General Checkup,10/8/2024,2404,Digital Wallet,Call,Completed
+5728,1420,1027,General Checkup,20/11/2024,820,Card,Call,Completed
+5729,240,1027,Headache,18/7/2024,1717,Digital Wallet,In Person,Completed
+5730,529,1027,Back Pain,8/6/2025,858,Card,Online,Scheduled
+5731,1308,1009,Migraine,9/2/2025,1772,Insurance,In Person,Completed
+5732,944,1027,Fever,3/2/2025,2100,Card,In Person,Completed
+5733,740,1027,General Checkup,14/5/2025,1803,Card,In Person,Completed
+5734,1318,1027,Back Pain,18/2/2025,1221,Card,Call,Completed
+5735,1089,1008,Migraine,27/4/2025,1106,Cash,Online,Completed
+5736,1331,1009,Migraine,11/12/2024,2325,Card,Call,Completed
+5737,780,1020,Asthma,2/3/2025,974,Cash,In Person,Completed
+5738,1245,1008,Migraine,9/3/2025,2402,Cash,Call,Completed
+5739,625,1027,Back Pain,24/9/2024,2015,Cash,Online,Completed
+5740,1221,1003,Hypertension,31/7/2024,1792,Card,In Person,Completed
+5741,1297,1027,Headache,10/7/2024,1688,Card,Call,Completed
+5742,257,1004,Hypertension,6/3/2025,2127,Cash,In Person,Completed
+5743,695,1027,Fever,9/3/2025,2212,Card,Online,Completed
+5744,1432,1027,Back Pain,15/10/2024,2493,Digital Wallet,In Person,Completed
+5745,698,1027,Headache,18/1/2025,2481,Insurance,Call,Completed
+5746,238,1027,Chest Pain,27/5/2025,1695,Digital Wallet,Call,Completed
+5747,622,1002,Hypertension,11/9/2024,1391,Card,Call,Completed
+5748,595,1008,Migraine,27/6/2025,1556,Insurance,Call,Scheduled
+5749,1068,1027,General Checkup,21/4/2025,2099,Digital Wallet,Online,Completed
+5750,531,1027,Fever,7/1/2025,1426,Digital Wallet,Online,Completed
+5751,465,1027,General Checkup,9/5/2025,1461,Digital Wallet,Call,Completed
+5752,1087,1003,Hypertension,16/12/2024,1160,Insurance,Online,Completed
+5753,277,1001,Chest Pain,5/6/2025,1651,Card,Online,Scheduled
+5754,653,1027,Headache,20/9/2024,1146,Card,Online,Completed
+5755,647,1001,Hypertension,22/8/2024,2282,Digital Wallet,Call,No-Show
+5756,1094,1027,Back Pain,16/6/2025,828,Card,In Person,Scheduled
+5757,461,1020,Asthma,16/6/2025,1759,Insurance,In Person,Scheduled
+5758,121,1027,Back Pain,23/9/2024,1860,Card,Call,Completed
+5759,1474,1020,Asthma,13/12/2024,1595,Digital Wallet,In Person,Completed
+5760,379,1008,Migraine,2/4/2025,1388,Insurance,Call,No-Show
+5761,1299,1009,Migraine,8/2/2025,2012,Insurance,In Person,Completed
+5762,433,1027,Headache,29/1/2025,836,Digital Wallet,In Person,Completed
+5763,341,1004,Hypertension,26/3/2025,1274,Cash,In Person,Completed
+5764,118,1002,Hypertension,26/3/2025,2288,Cash,Call,Completed
+5765,281,1027,General Checkup,11/3/2025,2061,Digital Wallet,In Person,Completed
+5766,877,1002,Hypertension,10/2/2025,1247,Digital Wallet,In Person,No-Show
+5767,1258,1008,Migraine,1/4/2025,1856,Insurance,Online,Completed
+5768,797,1027,Fever,25/4/2025,2431,Cash,In Person,Completed
+5769,590,1001,Hypertension,18/9/2024,1181,Digital Wallet,In Person,Cancelled
+5770,1349,1009,Migraine,15/1/2025,834,Cash,In Person,Completed
+5771,698,1027,General Checkup,31/7/2024,1695,Insurance,In Person,Completed
+5772,1150,1002,Hypertension,3/5/2025,1730,Cash,In Person,Completed
+5773,1231,1024,Diabetes,21/10/2024,1494,Digital Wallet,Online,No-Show
+5774,1213,1008,Migraine,23/6/2025,1747,Insurance,Online,Scheduled
+5775,824,1020,Asthma,29/9/2024,2254,Card,In Person,Completed
+5776,232,1027,General Checkup,24/3/2025,2343,Card,Online,Completed
+5777,284,1027,Headache,19/11/2024,2430,Digital Wallet,In Person,Completed
+5778,1242,1003,Hypertension,8/5/2025,1159,Insurance,Online,No-Show
+5779,680,1001,Chest Pain,27/12/2024,1314,Digital Wallet,In Person,No-Show
+5780,1309,1024,Diabetes,6/4/2025,2280,Card,Call,Completed
+5781,1274,1024,Diabetes,24/5/2025,2167,Insurance,Online,Completed
+5782,433,1027,Chest Pain,16/3/2025,1829,Card,In Person,Completed
+5783,810,1027,Fever,15/11/2024,1871,Cash,In Person,Completed
+5784,1455,1009,Migraine,24/5/2025,2395,Insurance,Call,Completed
+5785,1569,1027,Fever,23/10/2024,969,Card,Call,Completed
+5786,110,1027,Headache,18/11/2024,1483,Insurance,Call,Completed
+5787,499,1027,General Checkup,22/3/2025,1351,Insurance,Online,Completed
+5788,796,1024,Diabetes,8/6/2025,1758,Insurance,Online,Scheduled
+5789,904,1004,Hypertension,15/6/2025,1382,Cash,Online,Scheduled
+5790,1263,1027,General Checkup,8/2/2025,2369,Cash,Online,Completed
+5791,1461,1027,Back Pain,19/4/2025,1550,Cash,Call,Completed
+5792,1270,1024,Diabetes,10/10/2024,1915,Digital Wallet,Online,Completed
+5793,1072,1027,General Checkup,15/12/2024,1810,Digital Wallet,Call,Completed
+5794,847,1027,Headache,22/2/2025,1344,Insurance,Call,Completed
+5795,707,1027,Back Pain,19/8/2024,1914,Card,In Person,Completed
+5796,1169,1020,Asthma,22/1/2025,1497,Cash,Call,Completed
+5797,853,1027,Fever,7/11/2024,1659,Cash,In Person,No-Show
+5798,338,1020,Asthma,10/6/2025,1586,Insurance,In Person,Scheduled
+5799,871,1027,Fever,23/11/2024,1827,Card,Online,Completed
+5800,1567,1027,General Checkup,3/8/2024,2260,Card,In Person,Completed
+5801,356,1027,Fever,25/1/2025,1721,Insurance,Call,No-Show
+5802,1259,1027,Chest Pain,4/11/2024,2458,Digital Wallet,In Person,Completed
+5803,1113,1027,General Checkup,12/2/2025,1161,Digital Wallet,Call,Completed
+5804,1283,1027,Headache,10/2/2025,2245,Digital Wallet,In Person,Completed
+5805,561,1024,Diabetes,20/7/2024,2231,Digital Wallet,In Person,Completed
+5806,1193,1027,General Checkup,10/10/2024,1341,Cash,Call,Completed
+5807,1221,1020,Asthma,23/3/2025,2437,Digital Wallet,Online,Completed
+5808,279,1027,Fever,12/8/2024,1024,Cash,Call,Cancelled
+5809,943,1027,General Checkup,26/9/2024,1257,Digital Wallet,Call,Completed
+5810,1526,1027,Chest Pain,3/2/2025,2402,Insurance,Call,No-Show
+5811,1499,1020,Asthma,30/12/2024,818,Digital Wallet,In Person,Completed
+5812,1441,1024,Diabetes,22/10/2024,917,Insurance,In Person,Completed
+5813,1226,1004,Hypertension,22/1/2025,900,Insurance,Online,Completed
+5814,849,1009,Migraine,23/10/2024,1795,Digital Wallet,Call,Completed
+5815,906,1027,Back Pain,26/4/2025,1165,Cash,Call,Completed
+5816,1135,1008,Migraine,2/5/2025,2397,Cash,Call,No-Show
+5817,152,1008,Migraine,5/8/2024,1313,Cash,In Person,Completed
+5818,957,1027,Back Pain,29/5/2025,1098,Digital Wallet,Call,Completed
+5819,853,1027,Headache,10/5/2025,1951,Digital Wallet,Online,No-Show
+5820,597,1020,Asthma,17/7/2024,1902,Cash,Call,Completed
+5821,694,1008,Migraine,13/7/2024,1138,Cash,In Person,Completed
+5822,1446,1027,Headache,13/8/2024,2125,Digital Wallet,Online,Completed
+5823,569,1008,Migraine,1/8/2024,1930,Card,In Person,Completed
+5824,1586,1027,Fever,10/9/2024,1032,Card,In Person,No-Show
+5825,1559,1001,Hypertension,5/8/2024,1366,Cash,Online,Completed
+5826,896,1002,Hypertension,21/12/2024,2059,Card,Online,Completed
+5827,1098,1002,Hypertension,10/4/2025,972,Cash,Online,Completed
+5828,728,1027,Back Pain,7/7/2024,1898,Cash,Online,Completed
+5829,422,1027,General Checkup,24/9/2024,1989,Card,Call,Completed
+5830,1592,1027,Headache,22/9/2024,1426,Insurance,In Person,Completed
+5831,674,1027,General Checkup,25/7/2024,1920,Card,Online,No-Show
+5832,1266,1024,Diabetes,30/10/2024,2073,Cash,In Person,Completed
+5833,611,1027,General Checkup,10/12/2024,1159,Cash,Call,Completed
+5834,1192,1027,General Checkup,19/6/2025,1123,Insurance,Online,Scheduled
+5835,1056,1020,Asthma,14/11/2024,1802,Insurance,Online,No-Show
+5836,279,1009,Migraine,30/9/2024,1909,Digital Wallet,Call,Completed
+5837,1123,1027,Headache,22/1/2025,1902,Card,In Person,Completed
+5838,1125,1024,Diabetes,2/2/2025,2268,Digital Wallet,Online,Completed
+5839,497,1027,Headache,31/3/2025,1362,Card,In Person,Completed
+5840,754,1027,Headache,22/3/2025,2238,Cash,Call,Completed
+5841,166,1027,General Checkup,15/12/2024,937,Insurance,Online,Completed
+5842,806,1027,Back Pain,30/11/2024,1568,Insurance,Call,Completed
+5843,101,1027,Fever,6/10/2024,800,Cash,In Person,Cancelled
+5844,667,1020,Asthma,24/10/2024,1231,Card,Online,Completed
+5845,430,1027,Headache,5/12/2024,1785,Insurance,In Person,Completed
+5846,1496,1024,Diabetes,10/1/2025,2098,Cash,In Person,Completed
+5847,918,1001,Chest Pain,9/12/2024,2060,Cash,In Person,Completed
+5848,1530,1027,Fever,7/2/2025,1335,Digital Wallet,Call,Completed
+5849,720,1009,Migraine,28/6/2025,1884,Cash,Online,Scheduled
+5850,544,1027,General Checkup,15/6/2025,1054,Digital Wallet,Online,Scheduled
+5851,269,1024,Diabetes,23/2/2025,913,Insurance,In Person,Completed
+5852,1062,1008,Migraine,22/8/2024,2410,Digital Wallet,In Person,Completed
+5853,349,1027,Back Pain,23/1/2025,1415,Cash,Call,Completed
+5854,1540,1027,Back Pain,10/12/2024,2274,Cash,Online,Completed
+5855,1230,1027,General Checkup,15/10/2024,1124,Card,In Person,Completed
+5856,1293,1027,Fever,15/6/2025,1527,Cash,Call,Scheduled
+5857,1446,1027,Headache,8/10/2024,960,Card,Online,Completed
+5858,1416,1024,Diabetes,3/6/2025,1255,Digital Wallet,In Person,Scheduled
+5859,785,1027,Fever,6/4/2025,1154,Insurance,Online,Completed
+5860,479,1004,Hypertension,29/12/2024,2225,Digital Wallet,Call,Completed
+5861,1458,1004,Hypertension,16/8/2024,2004,Card,Call,Completed
+5862,803,1027,Back Pain,5/4/2025,1031,Digital Wallet,Online,Completed
+5863,1468,1020,Asthma,7/7/2024,1142,Insurance,In Person,Completed
+5864,207,1009,Migraine,9/10/2024,1841,Card,Call,Completed
+5865,330,1027,Back Pain,20/10/2024,1321,Digital Wallet,In Person,No-Show
+5866,456,1027,General Checkup,2/9/2024,1021,Insurance,Online,Completed
+5867,1430,1024,Diabetes,11/11/2024,1653,Cash,Online,Completed
+5868,1420,1020,Asthma,31/1/2025,1444,Cash,Call,Completed
+5869,585,1024,Diabetes,8/3/2025,2209,Card,Online,Completed
+5870,1482,1027,General Checkup,31/12/2024,2310,Digital Wallet,In Person,Completed
+5871,1076,1002,Hypertension,27/8/2024,2317,Insurance,Online,No-Show
+5872,1043,1024,Diabetes,28/1/2025,1538,Insurance,In Person,Completed
+5873,1203,1027,Fever,7/2/2025,2035,Digital Wallet,Call,Completed
+5874,754,1020,Asthma,10/7/2024,1371,Cash,Online,Completed
+5875,376,1027,Chest Pain,19/2/2025,1307,Digital Wallet,Call,Completed
+5876,195,1008,Migraine,20/4/2025,1600,Insurance,In Person,Completed
+5877,137,1008,Migraine,12/3/2025,1655,Digital Wallet,Call,Completed
+5878,849,1027,General Checkup,8/2/2025,1579,Cash,Online,Completed
+5879,870,1027,Back Pain,8/9/2024,2475,Card,In Person,No-Show
+5880,1466,1027,General Checkup,4/3/2025,1523,Card,Online,Completed
+5881,527,1001,Hypertension,25/3/2025,1061,Card,Online,Completed
+5882,216,1009,Migraine,11/2/2025,991,Cash,In Person,Completed
+5883,1344,1020,Asthma,16/4/2025,1555,Digital Wallet,In Person,Completed
+5884,605,1001,Hypertension,10/12/2024,1395,Digital Wallet,Call,Completed
+5885,245,1027,Back Pain,10/1/2025,2491,Cash,Call,Completed
+5886,465,1020,Asthma,27/3/2025,960,Card,In Person,No-Show
+5887,1192,1001,Chest Pain,13/11/2024,1589,Card,In Person,Completed
+5888,311,1027,General Checkup,29/6/2025,1213,Card,Online,Scheduled
+5889,894,1020,Asthma,27/4/2025,1930,Cash,Online,Completed
+5890,1227,1002,Hypertension,20/2/2025,996,Cash,In Person,Completed
+5891,1447,1003,Hypertension,17/2/2025,1152,Insurance,In Person,No-Show
+5892,320,1027,General Checkup,5/2/2025,1399,Card,Call,Completed
+5893,479,1027,Back Pain,27/11/2024,1411,Card,Online,Completed
+5894,1416,1024,Diabetes,17/7/2024,1392,Digital Wallet,Call,Completed
+5895,257,1027,General Checkup,20/6/2025,1066,Card,Call,Scheduled
+5896,560,1027,Back Pain,4/12/2024,1594,Insurance,In Person,Completed
+5897,267,1004,Hypertension,12/11/2024,813,Cash,Online,Completed
+5898,430,1002,Hypertension,10/11/2024,804,Insurance,Online,Cancelled
+5899,1549,1027,General Checkup,13/8/2024,2107,Cash,Call,Completed
+5900,934,1020,Asthma,7/1/2025,1709,Digital Wallet,Online,Completed
+5901,535,1027,Headache,6/1/2025,1323,Cash,In Person,No-Show
+5902,1017,1020,Asthma,21/4/2025,1799,Insurance,In Person,Completed
+5903,159,1009,Migraine,27/6/2025,2374,Card,Online,Scheduled
+5904,797,1001,Chest Pain,10/2/2025,2189,Insurance,In Person,Completed
+5905,196,1027,Back Pain,9/2/2025,1185,Insurance,Call,No-Show
+5906,122,1027,Chest Pain,27/3/2025,2246,Insurance,Online,No-Show
+5907,766,1027,General Checkup,26/4/2025,1656,Cash,Call,Completed
+5908,193,1001,Chest Pain,17/8/2024,926,Cash,In Person,Completed
+5909,428,1027,Fever,26/12/2024,1883,Card,Online,Completed
+5910,126,1008,Migraine,28/5/2025,2357,Digital Wallet,Call,Completed
+5911,533,1020,Asthma,30/5/2025,1459,Insurance,In Person,Completed
+5912,980,1001,Chest Pain,9/3/2025,949,Insurance,Online,Completed
+5913,975,1020,Asthma,12/11/2024,2106,Digital Wallet,Online,Completed
+5914,644,1027,Fever,15/11/2024,2256,Insurance,Online,Completed
+5915,642,1027,General Checkup,7/2/2025,2008,Insurance,In Person,Completed
+5916,336,1001,Chest Pain,28/5/2025,2375,Insurance,Online,Completed
+5917,376,1001,Chest Pain,21/7/2024,2112,Insurance,In Person,Cancelled
+5918,159,1027,General Checkup,8/10/2024,1376,Cash,In Person,Completed
+5919,1390,1027,Headache,6/4/2025,901,Digital Wallet,In Person,Completed
+5920,1006,1024,Diabetes,31/3/2025,1850,Digital Wallet,Online,Completed
+5921,779,1027,General Checkup,20/6/2025,1041,Card,In Person,Scheduled
+5922,752,1020,Asthma,27/5/2025,1477,Cash,In Person,Completed
+5923,1060,1009,Migraine,19/1/2025,2377,Digital Wallet,In Person,Completed
+5924,1313,1027,Back Pain,7/10/2024,1387,Insurance,Online,No-Show
+5925,181,1027,Headache,19/3/2025,1282,Digital Wallet,Online,Completed
+5926,1575,1002,Hypertension,10/10/2024,1036,Card,Call,Completed
+5927,108,1027,Back Pain,9/10/2024,1805,Insurance,Call,Completed
+5928,402,1008,Migraine,25/6/2025,1331,Card,Call,Scheduled
+5929,238,1027,Fever,16/3/2025,2072,Card,Call,Completed
+5930,816,1024,Diabetes,14/11/2024,2231,Insurance,In Person,No-Show
+5931,1258,1020,Asthma,10/9/2024,1041,Card,In Person,Completed
+5932,451,1020,Asthma,19/1/2025,1188,Cash,In Person,Completed
+5933,249,1020,Asthma,25/2/2025,1494,Cash,Call,Completed
+5934,1293,1027,Back Pain,19/1/2025,995,Insurance,Online,Completed
+5935,551,1002,Hypertension,9/3/2025,859,Cash,In Person,Completed
+5936,539,1001,Hypertension,24/8/2024,1762,Cash,Online,Completed
+5937,178,1027,Chest Pain,7/9/2024,2074,Cash,Call,Completed
+5938,469,1027,Back Pain,27/10/2024,1497,Digital Wallet,Online,Completed
+5939,311,1001,Hypertension,25/8/2024,1559,Cash,In Person,Completed
+5940,1482,1027,Headache,12/12/2024,1828,Card,Online,Cancelled
+5941,345,1024,Diabetes,14/7/2024,2361,Insurance,Online,Completed
+5942,514,1002,Hypertension,16/7/2024,1822,Card,In Person,Completed
+5943,160,1027,Back Pain,31/3/2025,2232,Card,Online,Completed
+5944,764,1008,Migraine,10/11/2024,1154,Card,Call,Completed
+5945,989,1027,General Checkup,23/8/2024,1350,Insurance,Online,Completed
+5946,1033,1027,General Checkup,7/2/2025,1903,Cash,Call,Completed
+5947,121,1024,Diabetes,22/3/2025,842,Card,Online,Completed
+5948,483,1027,Back Pain,26/8/2024,1958,Cash,Online,Completed
+5949,1354,1027,Back Pain,21/8/2024,1801,Cash,In Person,Completed
+5950,658,1001,Hypertension,11/1/2025,2034,Insurance,Online,Completed
+5951,525,1027,Back Pain,2/5/2025,1062,Digital Wallet,Online,Completed
+5952,249,1027,Back Pain,11/9/2024,1739,Cash,Call,Completed
+5953,113,1027,Chest Pain,9/8/2024,1038,Digital Wallet,In Person,No-Show
+5954,518,1002,Hypertension,17/2/2025,1380,Digital Wallet,Online,Completed
+5955,1001,1027,Back Pain,8/8/2024,1440,Insurance,In Person,Completed
+5956,706,1027,General Checkup,5/1/2025,2018,Insurance,In Person,Completed
+5957,933,1020,Asthma,4/10/2024,1825,Cash,Call,Completed
+5958,1163,1008,Migraine,21/8/2024,1508,Digital Wallet,Call,Completed
+5959,1135,1027,Headache,4/2/2025,821,Card,In Person,No-Show
+5960,543,1027,Back Pain,8/6/2025,941,Digital Wallet,In Person,Scheduled
+5961,301,1027,General Checkup,16/10/2024,1734,Digital Wallet,Online,Completed
+5962,909,1002,Hypertension,24/2/2025,1862,Insurance,Online,Completed
+5963,282,1027,Fever,4/2/2025,2170,Insurance,In Person,Completed
+5964,1508,1027,Fever,30/8/2024,1754,Card,In Person,Completed
+5965,1036,1009,Migraine,9/7/2024,1401,Insurance,Call,Completed
+5966,1572,1024,Diabetes,6/7/2024,989,Digital Wallet,Online,Completed
+5967,259,1024,Diabetes,15/11/2024,1711,Card,Online,Completed
+5968,1387,1027,Fever,9/7/2024,2465,Insurance,Online,No-Show
+5969,1276,1027,Headache,14/8/2024,2333,Digital Wallet,In Person,Completed
+5970,679,1020,Asthma,8/5/2025,2457,Cash,Call,Completed
+5971,1320,1008,Migraine,8/3/2025,1298,Digital Wallet,Call,Completed
+5972,1293,1027,Chest Pain,11/10/2024,1332,Card,In Person,Completed
+5973,1032,1020,Asthma,4/3/2025,1449,Card,In Person,Completed
+5974,1224,1001,Chest Pain,9/5/2025,2359,Cash,Online,Completed
+5975,968,1027,Fever,30/4/2025,2140,Card,Online,Completed
+5976,120,1024,Diabetes,2/11/2024,2455,Cash,Online,No-Show
+5977,1531,1027,Back Pain,5/6/2025,1738,Card,Call,Scheduled
+5978,579,1001,Chest Pain,20/12/2024,1731,Card,In Person,Completed
+5979,160,1027,Back Pain,31/10/2024,1282,Cash,Call,Completed
+5980,1134,1024,Diabetes,28/4/2025,861,Digital Wallet,In Person,Completed
+5981,1088,1027,Chest Pain,6/10/2024,1803,Card,Call,Completed
+5982,231,1009,Migraine,15/3/2025,1299,Cash,In Person,Completed
+5983,1332,1027,Headache,21/10/2024,1697,Cash,In Person,Completed
+5984,314,1027,Chest Pain,23/9/2024,808,Cash,In Person,Completed
+5985,1078,1003,Hypertension,26/5/2025,2105,Card,In Person,No-Show
+5986,487,1027,Fever,29/4/2025,2124,Insurance,Call,Completed
+5987,459,1008,Migraine,17/5/2025,1230,Digital Wallet,In Person,Completed
+5988,1506,1008,Migraine,20/11/2024,1231,Card,Call,Completed
+5989,615,1009,Migraine,7/10/2024,1602,Card,Call,Completed
+5990,231,1004,Hypertension,2/10/2024,2256,Insurance,Online,Completed
+5991,1343,1027,General Checkup,17/3/2025,1063,Card,In Person,No-Show
+5992,1239,1027,Back Pain,29/5/2025,1930,Cash,Call,Completed
+5993,347,1003,Hypertension,24/4/2025,2433,Cash,In Person,No-Show
+5994,920,1020,Asthma,26/3/2025,1831,Digital Wallet,Call,Completed
+5995,1105,1027,Chest Pain,25/9/2024,2073,Cash,Call,Completed
+5996,422,1001,Chest Pain,2/12/2024,1703,Cash,In Person,Completed
+5997,884,1027,Fever,4/5/2025,998,Card,Online,Completed
+5998,1486,1008,Migraine,24/6/2025,2378,Insurance,Online,Scheduled
+5999,1412,1027,Headache,18/6/2025,2287,Insurance,Online,Scheduled
